@@ -1,0 +1,15 @@
+.random-advice-component{
+  height: 60vh;
+}
+
+.heading {
+  font-size: 4rem;
+  font-weight: 700;
+}
+
+.message {
+  background: rgba(41, 63, 75, 0.68);
+  color: white;
+  border-radius: 5px;
+}
+
