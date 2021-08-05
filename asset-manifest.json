@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/advice-api/static/css/main.cc94db07.chunk.css",
+    "main.js": "/advice-api/static/js/main.102a4379.chunk.js",
+    "main.js.map": "/advice-api/static/js/main.102a4379.chunk.js.map",
+    "runtime-main.js": "/advice-api/static/js/runtime-main.f714a828.js",
+    "runtime-main.js.map": "/advice-api/static/js/runtime-main.f714a828.js.map",
+    "static/css/2.fb17aa6d.chunk.css": "/advice-api/static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.9477915c.chunk.js": "/advice-api/static/js/2.9477915c.chunk.js",
+    "static/js/2.9477915c.chunk.js.map": "/advice-api/static/js/2.9477915c.chunk.js.map",
+    "index.html": "/advice-api/index.html",
+    "static/css/2.fb17aa6d.chunk.css.map": "/advice-api/static/css/2.fb17aa6d.chunk.css.map",
+    "static/css/main.cc94db07.chunk.css.map": "/advice-api/static/css/main.cc94db07.chunk.css.map",
+    "static/js/2.9477915c.chunk.js.LICENSE.txt": "/advice-api/static/js/2.9477915c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/advice-api/static/media/background.dd6ecdc3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f714a828.js",
+    "static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.9477915c.chunk.js",
+    "static/css/main.cc94db07.chunk.css",
+    "static/js/main.102a4379.chunk.js"
+  ]
+}
