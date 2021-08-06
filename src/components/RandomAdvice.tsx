@@ -43,9 +43,7 @@ function RandomAdvice() {
       <Row >
         {
           message ?
-            <Col>
-              <em className='message p-3'>'{message}'</em>
-            </Col>
+            <em className='message p-3'>'{message}'</em>
             :
             ''
         }
